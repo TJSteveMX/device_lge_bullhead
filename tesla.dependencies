@@ -6,9 +6,9 @@
     "remote": "ThugLife"
   },
   {
-   "repository": "DonkeyCoyote/proprietary_vendor_lge",
+   "repository": "TheMuppets/proprietary_vendor_lge",
    "target_path": "vendor/lge",
-   "branch": "android-6.0",
+   "branch": "cm-13.0",
    "remote": "github"
   }
 ]
