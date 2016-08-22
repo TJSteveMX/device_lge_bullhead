@@ -410,7 +410,6 @@ PRODUCT_COPY_FILES += \
     device/lge/bullhead/old-apns-conf.xml:system/etc/old-apns-conf.xml
 
 # Modem debugger
-android-6.0.1_r62
 ifneq (,$(filter userdebug eng, $(TARGET_BUILD_VARIANT)))
 PRODUCT_PACKAGES += \
     QXDMLogger
