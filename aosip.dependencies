@@ -1,0 +1,13 @@
+
+[
+ {
+   "repository":  "KronicKernel/bullhead",
+   "target_path": "kernel/lge/bullhead",
+   "branch":      "nougat"
+ },
+ {
+   "repository":  "PureNexusProject/proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "branch":      "n"
+ }
+]
