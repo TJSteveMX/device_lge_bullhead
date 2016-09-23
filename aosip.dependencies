@@ -6,7 +6,7 @@
    "branch":      "nougat"
  },
  {
-   "repository":  "PureAndroidProject/proprietary_vendor_lge",
+   "repository":  "PureNexusProject/proprietary_vendor_lge",
    "target_path": "vendor/lge",
    "branch":      "n"
  }
