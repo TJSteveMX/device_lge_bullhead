@@ -7,7 +7,7 @@
  },
  {
    "repository":  "AOSiP-Devices/platform_vendor_lge",
-   "target_path": "platform_vendor_lge",
+   "target_path": "vendor/lge",
    "branch":      "n"
  }
 ]
