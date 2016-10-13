@@ -1,12 +1,12 @@
 
 [
  {
-   "repository":  "KronicKernel/bullhead",
+   "repository":  "DespairFactor/bullhead",
    "target_path": "kernel/lge/bullhead",
-   "branch":      "nougat"
+   "branch":      "n"
  },
  {
-   "repository":  "AOSiP-Devices/platform_vendor_lge",
+   "repository":  "DirtyUnicorns/android_vendor_lge",
    "target_path": "vendor/lge",
    "branch":      "n"
  }
