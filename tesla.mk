@@ -20,8 +20,9 @@ TARGET_MANUFACTURER := LGE
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # Device Fingerprint
+# To use on 7.1 when I fork the rest
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=bullhead \
-    BUILD_FINGERPRINT=google/bullhead/bullhead:7.0/NBD90W/3239497:user/release-keys \
-    PRIVATE_BUILD_DESC="bullhead-user 7.0 NBD90W 3239497 release-keys" \
-    BUILD_ID=NBD90W
+  PRODUCT_NAME=bullhead \
+  BUILD_FINGERPRINT=google/bullhead/bullhead:7.0/N5D91L/3425233:user/release-keys \
+  PRIVATE_BUILD_DESC="bullhead-user 7.0 N5D91L 3425233 release-keys" \
+    BUILD_ID=N5D91L
